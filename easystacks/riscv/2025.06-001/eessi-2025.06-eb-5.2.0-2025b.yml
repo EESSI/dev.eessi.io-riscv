@@ -16,3 +16,5 @@ easyconfigs:
   - OpenMPI-5.0.8-GCC-14.3.0.eb
   - foss-2025b.eb
   - llvm-compilers-20.1.8.eb
+      options:
+        from-pr: 25218
