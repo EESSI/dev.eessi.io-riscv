@@ -33,3 +33,4 @@ easyconfigs:
         from-commit: 9793e8871ab0c9e635e7b7fc4d06720c62aebb26
   - cffi-1.17.1-GCCcore-14.3.0.eb
   - flit-3.12.0-GCCcore-14.3.0.eb
+  - cryptography-45.0.5-GCCcore-14.3.0.eb
