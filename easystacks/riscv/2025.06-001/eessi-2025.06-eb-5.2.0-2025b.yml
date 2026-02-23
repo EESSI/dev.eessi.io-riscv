@@ -37,3 +37,7 @@ easyconfigs:
   - spin-0.14-GCCcore-14.3.0.eb
   - pybind11-3.0.0-GCC-14.3.0.eb
   - meson-python-0.18.0-GCCcore-14.3.0.eb
+  - waLBerla-6.1-foss-2025b.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25382
+        from-pr: 25382
