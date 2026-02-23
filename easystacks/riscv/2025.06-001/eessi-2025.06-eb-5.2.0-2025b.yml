@@ -37,3 +37,7 @@ easyconfigs:
   - spin-0.14-GCCcore-14.3.0.eb
   - pybind11-3.0.0-GCC-14.3.0.eb
   - meson-python-0.18.0-GCCcore-14.3.0.eb
+  - LAMMPS-22Jul2025-foss-2025b-kokkos.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25379
+        from-pr: 25379
