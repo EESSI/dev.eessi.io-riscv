@@ -37,3 +37,4 @@ easyconfigs:
   - spin-0.14-GCCcore-14.3.0.eb
   - pybind11-3.0.0-GCC-14.3.0.eb
   - meson-python-0.18.0-GCCcore-14.3.0.eb
+  - ESPResSo-4.2.2-foss-2025b.eb
