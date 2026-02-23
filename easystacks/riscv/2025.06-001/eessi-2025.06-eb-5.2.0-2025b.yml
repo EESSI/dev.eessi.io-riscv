@@ -38,3 +38,6 @@ easyconfigs:
   - pybind11-3.0.0-GCC-14.3.0.eb
   - meson-python-0.18.0-GCCcore-14.3.0.eb
   - ESPResSo-4.2.2-foss-2025b.eb
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25386
+        from-pr: 25386
