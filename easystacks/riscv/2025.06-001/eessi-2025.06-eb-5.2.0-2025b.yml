@@ -43,3 +43,4 @@ easyconfigs:
   - NASM-2.16.03-GCCcore-14.3.0.eb
   - PCRE-8.45-GCCcore-14.3.0.eb
   - GSL-2.8-GCC-14.3.0.eb
+  - libyaml-0.2.5-GCCcore-14.3.0.eb
