@@ -38,3 +38,4 @@ easyconfigs:
   - pybind11-3.0.0-GCC-14.3.0.eb
   - meson-python-0.18.0-GCCcore-14.3.0.eb
   - hypothesis-6.136.6-GCCcore-14.3.0.eb
+  - GSL-2.8-GCC-14.3.0.eb
