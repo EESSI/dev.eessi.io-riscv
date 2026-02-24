@@ -44,3 +44,4 @@ easyconfigs:
   - PCRE-8.45-GCCcore-14.3.0.eb
   - GSL-2.8-GCC-14.3.0.eb
   - libyaml-0.2.5-GCCcore-14.3.0.eb
+  - Doxygen-1.14.0-GCCcore-14.3.0.eb
