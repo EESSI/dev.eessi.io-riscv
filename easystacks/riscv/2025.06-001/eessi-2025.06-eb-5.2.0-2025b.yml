@@ -39,3 +39,4 @@ easyconfigs:
   - meson-python-0.18.0-GCCcore-14.3.0.eb
   - hypothesis-6.136.6-GCCcore-14.3.0.eb
   - archspec-0.2.5-GCCcore-14.3.0.eb
+  - libpng-1.6.50-GCCcore-14.3.0.eb
