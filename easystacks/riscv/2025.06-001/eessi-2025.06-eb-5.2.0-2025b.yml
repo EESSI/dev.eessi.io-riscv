@@ -49,3 +49,7 @@ easyconfigs:
   - libjpeg-turbo-3.1.1-GCCcore-14.3.0
   - Szip-2.1.1-GCCcore-14.3.0.eb
   - HDF5-1.14.6-gompi-2025b.eb
+  - waLBerla-6.1-foss-2025b.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25382
+        from-pr: 25382
