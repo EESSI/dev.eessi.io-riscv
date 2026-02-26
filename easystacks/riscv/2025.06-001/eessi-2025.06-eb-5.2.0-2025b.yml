@@ -49,7 +49,7 @@ easyconfigs:
   - libjpeg-turbo-3.1.1-GCCcore-14.3.0
   - Szip-2.1.1-GCCcore-14.3.0.eb
   - HDF5-1.14.6-gompi-2025b.eb
-  - LAMMPS-22Jul2025-foss-2025b-kokkos.eb:
+  - LAMMPS-22Jul2025_update3-foss-2025b-kokkos.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25379
         from-pr: 25379
