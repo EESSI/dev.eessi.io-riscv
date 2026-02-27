@@ -38,7 +38,7 @@ easyconfigs:
   - pybind11-3.0.0-GCC-14.3.0.eb
   - meson-python-0.18.0-GCCcore-14.3.0.eb
   - hypothesis-6.136.6-GCCcore-14.3.0.eb
-  - archspec-0.2.5-GCCcore-14.3.0.eb
+   - archspec-0.2.5-GCCcore-14.3.0.eb
   - libpng-1.6.50-GCCcore-14.3.0.eb
   - NASM-2.16.03-GCCcore-14.3.0.eb
   - PCRE-8.45-GCCcore-14.3.0.eb
@@ -49,3 +49,10 @@ easyconfigs:
   - libjpeg-turbo-3.1.1-GCCcore-14.3.0
   - Szip-2.1.1-GCCcore-14.3.0.eb
   - HDF5-1.14.6-gompi-2025b.eb
+  - LLVM-20.1.8-GCCcore-14.3.0.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25218
+        from-pr: 25218
+
+
+
