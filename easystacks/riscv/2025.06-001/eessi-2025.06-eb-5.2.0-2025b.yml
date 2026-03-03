@@ -37,6 +37,18 @@ easyconfigs:
   - spin-0.14-GCCcore-14.3.0.eb
   - pybind11-3.0.0-GCC-14.3.0.eb
   - meson-python-0.18.0-GCCcore-14.3.0.eb
+  - hypothesis-6.136.6-GCCcore-14.3.0.eb
+  - archspec-0.2.5-GCCcore-14.3.0.eb
+  - libpng-1.6.50-GCCcore-14.3.0.eb
+  - NASM-2.16.03-GCCcore-14.3.0.eb
+  - PCRE-8.45-GCCcore-14.3.0.eb
+  - GSL-2.8-GCC-14.3.0.eb
+  - libyaml-0.2.5-GCCcore-14.3.0.eb
+  - Doxygen-1.14.0-GCCcore-14.3.0.eb
+  - PyYAML-6.0.2-GCCcore-14.3.0.eb
+  - libjpeg-turbo-3.1.1-GCCcore-14.3.0
+  - Szip-2.1.1-GCCcore-14.3.0.eb
+  - HDF5-1.14.6-gompi-2025b.eb
   - waLBerla-6.1-foss-2025b.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25382
