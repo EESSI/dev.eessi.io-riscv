@@ -1,0 +1,5 @@
+easyconfigs:
+  - waLBerla-6.1-foss-2025b.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25382
+        from-pr: 25382
