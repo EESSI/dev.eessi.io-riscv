@@ -1,3 +1,4 @@
 easyconfigs:
   - Boost.MPI-1.88.0-gompi-2025b.eb
   - gfbf-2025b.eb
+  - libdrm-2.4.125-GCCcore-14.3.0.eb
