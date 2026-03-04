@@ -1,3 +1,4 @@
 easyconfigs:
   - Boost.MPI-1.88.0-gompi-2025b.eb
   - gfbf-2025b.eb
+  - OpenGL-2025.09-GCCcore-14.3.0.eb
