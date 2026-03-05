@@ -5,6 +5,8 @@ easyconfigs:
   - Pint-0.25-GCCcore-14.3.0.eb
   - glslang-SPIRV-15.4.0-GCCcore-14.3.0.eb
   - jedi-0.19.2-GCCcore-14.3.0.eb
+  - ZeroMQ-4.3.5-GCCcore-14.3.0.eb
+  - lxml-6.0.0-GCCcore-14.3.0.eb
   - netCDF-4.9.3-gompi-2025b.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25490
@@ -13,4 +15,5 @@ easyconfigs:
         include-easyblocks-from-commit: 83383a2d86dd4b886fb674d620fc34386d73a78d
 
  
+
 
