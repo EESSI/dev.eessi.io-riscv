@@ -15,5 +15,5 @@ easyconfigs:
   - IPython-9.4.0-GCCcore-14.3.0.eb
   - SciPy-bundle-2025.07-gfbf-2025b.eb:
       options:
-        from-pr: 25495
+        from-commit: 01f18d95c6debc3354987f0a850a1ff77215b067
         parallel: "1"
