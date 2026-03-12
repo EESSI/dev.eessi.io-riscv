@@ -15,4 +15,12 @@ easyconfigs:
   - IPython-9.4.0-GCCcore-14.3.0.eb
   - Abseil-20250512.1-GCCcore-14.3.0.eb
   - absl-py-2.3.1-GCCcore-14.3.0.eb
-
+  - CDO-2.5.3-gompi-2025b.eb
+  - CFITSIO-4.6.2-GCCcore-14.3.0.eb
+  - CGAL-6.0.1-GCCcore-14.3.0.eb
+  - Cbc-2.10.12-foss-2025b.eb
+  - Cgl-0.60.9-foss-2025b.eb
+  - Clp-1.17.10-foss-2025b.eb
+  - CoinUtils-2.11.12-GCC-14.3.0.eb
+  - CubeLib-4.9.1-GCCcore-14.3.0.eb
+  - CubeWriter-4.9.1-GCCcore-14.3.0.eb
