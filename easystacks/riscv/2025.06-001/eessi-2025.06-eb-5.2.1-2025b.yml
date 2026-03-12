@@ -13,13 +13,10 @@ easyconfigs:
   - libdrm-2.4.125-GCCcore-14.3.0.eb
   - nettle-3.10.2-GCCcore-14.3.0.eb
   - IPython-9.4.0-GCCcore-14.3.0.eb
-<<<<<<< SciPy-bundle
-  - SciPy-bundle-2025.07-gfbf-2025b.eb:
-      options:
-        from-commit: 01f18d95c6debc3354987f0a850a1ff77215b067
-        parallel: "1"
-=======
   - Abseil-20250512.1-GCCcore-14.3.0.eb
   - absl-py-2.3.1-GCCcore-14.3.0.eb
+  - SciPy-bundle-2025.07-gfbf-2025b.eb:
+      options:
+        from-commit: f10886a24b933cb36f4f7a78d290a2e89f43ded3
+        parallel: "1"
 
->>>>>>> main
