@@ -16,12 +16,6 @@ easyconfigs:
   - netCDF-4.9.3-gompi-2025b.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25490
-        from-commit: 5dd2cf6ddc91eb2d6692862f4322e1c00f63408c
+        from-commit: 7be18a12bcd757ce3ae0c44ee2f4418427b23633
         # see https://github.com/easybuilders/easybuild-easyblocks/pull/4086
-        include-easyblocks-from-commit: 83383a2d86dd4b886fb674d620fc34386d73a78d
-
- 
-
-
-
-
+        include-easyblocks-from-commit: df3ca300d7f9193241e6bee2be3d58b103323725
