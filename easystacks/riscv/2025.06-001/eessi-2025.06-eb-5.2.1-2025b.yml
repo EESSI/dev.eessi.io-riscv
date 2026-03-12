@@ -13,10 +13,10 @@ easyconfigs:
   - libdrm-2.4.125-GCCcore-14.3.0.eb
   - nettle-3.10.2-GCCcore-14.3.0.eb
   - IPython-9.4.0-GCCcore-14.3.0.eb
+  - Abseil-20250512.1-GCCcore-14.3.0.eb
+  - absl-py-2.3.1-GCCcore-14.3.0.eb
   - waLBerla-7.2-foss-2025b.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25382
         from-pr: 25382
-
-
 
