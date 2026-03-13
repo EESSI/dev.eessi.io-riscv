@@ -15,8 +15,8 @@ easyconfigs:
   - IPython-9.4.0-GCCcore-14.3.0.eb
   - Abseil-20250512.1-GCCcore-14.3.0.eb
   - absl-py-2.3.1-GCCcore-14.3.0.eb
+  - elfutils-0.193-GCCcore-14.3.0.eb
   - SciPy-bundle-2025.07-gfbf-2025b.eb:
       options:
         from-commit: f10886a24b933cb36f4f7a78d290a2e89f43ded3
         parallel: "1"
-
