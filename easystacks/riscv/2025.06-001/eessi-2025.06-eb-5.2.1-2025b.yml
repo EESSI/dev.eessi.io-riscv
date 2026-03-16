@@ -37,4 +37,9 @@ easyconfigs:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25495
         from-commit: f10886a24b933cb36f4f7a78d290a2e89f43ded3
         parallel: "1"
+  - waLBerla-7.2-foss-2025b.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25382
+        from-pr: 25382
+
 
