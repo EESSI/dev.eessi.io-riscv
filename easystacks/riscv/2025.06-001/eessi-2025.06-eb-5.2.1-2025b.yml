@@ -94,5 +94,4 @@ easyconfigs:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25798
         from-commit: a62e2485218203c9e8dc1e90284781f115b39e2f
-  - Qt6-6.9.3-GCCcore-14.3.0.eb
   
