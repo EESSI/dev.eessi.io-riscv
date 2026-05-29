@@ -44,5 +44,5 @@ easyconfigs:
   - GTK3-3.24.43-GCCcore-14.3.0.eb
   - GROMACS-2026.2-foss-2025b.eb:
       options:
-      # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25879
-      from-commit: db4ee5dd0bcc8a22a8c9db2191daaa66bcd14cae
+        #see https://github.com/easybuilders/easybuild-easyconfigs/pull/25879
+        from-commit: db4ee5dd0bcc8a22a8c9db2191daaa66bcd14cae
