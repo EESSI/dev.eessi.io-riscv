@@ -46,8 +46,10 @@ easyconfigs:
       options:
         #see https://github.com/easybuilders/easybuild-easyconfigs/pull/25879
         from-commit: db4ee5dd0bcc8a22a8c9db2191daaa66bcd14cae
+  - HPL-2.3-foss-2025b.eb
   - Qt6-6.9.3-GCCcore-14.3.0.eb:
       options:
         #see https://github.com/easybuilders/easybuild-easyconfigs/pull/25974
-        from-pr: 25974
+        from-commit: a58cd1a9a462fab9079e5c01809bd984a9a256ab
+
 
