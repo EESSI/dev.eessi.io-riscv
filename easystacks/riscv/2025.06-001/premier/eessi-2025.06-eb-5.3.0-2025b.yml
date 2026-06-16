@@ -1,0 +1,5 @@
+easyconfigs:
+  - OpenMPI-5.0.8-GCC-14.3.0.eb:
+      options:
+        #see https://github.com/easybuilders/easybuild-easyconfigs/pull/26252
+        from-commit: 37daccc26942205c3126d3e83a1b1f89a5212838
