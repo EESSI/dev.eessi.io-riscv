@@ -53,3 +53,8 @@ easyconfigs:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25379
         from-commit: 0ccbe93cd21d1da2599085288674c2eafe919851
+  - LAMMPS-22Jul2025_update4-foss-2025b-kokkos.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/26147
+        from-commit: 5d6f9271e149bc643df9371d6700fab098697d8d
+
