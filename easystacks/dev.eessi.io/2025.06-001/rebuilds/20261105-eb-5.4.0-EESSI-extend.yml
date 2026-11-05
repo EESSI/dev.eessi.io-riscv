@@ -1,0 +1,4 @@
+# EESSI-extend for riscv64/spacemit/x60 was built with a different EB version than for other targets.
+# Rebuild it with 5.4.0 to make the CI checks happy.
+easyconfigs:
+  - EESSI-extend-easybuild.eb
