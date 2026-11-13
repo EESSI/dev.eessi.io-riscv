@@ -1,4 +1,7 @@
 easyconfigs:
+  - GCCcore-14.3.0.eb:
+      options:
+        max-parallel: 4
   - GCC-14.3.0.eb
   - FlexiBLAS-3.4.5-GCC-14.3.0.eb
   - FFTW-3.3.10-GCC-14.3.0.eb
