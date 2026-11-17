@@ -1,0 +1,5 @@
+easyconfigs:
+  - GCCcore-14.3.0.eb:
+      options:
+        max-parallel: 4
+
