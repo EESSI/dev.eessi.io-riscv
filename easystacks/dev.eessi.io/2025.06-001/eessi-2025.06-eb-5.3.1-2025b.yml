@@ -2,6 +2,6 @@ easyconfigs:
   - LLVM-23.0.0git-llvm-compilers-20.1.8-EPI-818f50ff1893273a40f54633f1fa4480537dab9c.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/26078
-        from-commit: 84a3c6b0db6142f8b4d60c8cd80c0e8b82d312b5
+        from-commit: 5d6bc0f3c61cdc5863058e5415a44a74d8ad489f
         # see https://github.com/easybuilders/easybuild-easyblocks/pull/4178
         include-easyblocks-from-commit: 1e945d5f38bfefda6ef3ce9443e1890a80b644aa
